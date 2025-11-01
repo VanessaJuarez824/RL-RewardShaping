@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9c0cc15eb2e0bd40b49356c255ab6c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 4688057437700757838, guid: 401d42dda3813ce46a4851f8c957207c, type: 3}
+  - cameraTransform: {instanceID: 0}
+  - editModeButton: {instanceID: 0}
+  - generateObstaclesButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
